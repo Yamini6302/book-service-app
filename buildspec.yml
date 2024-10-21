@@ -35,4 +35,4 @@ artifacts:
     - imagedefinitions.json
     - target/springboot-aws-deploy.jar
 
-#      codebuild-My-book-service-app-service-role
+#      codebuild-my-book-service-application-service-role
